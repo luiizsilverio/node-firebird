@@ -1,0 +1,17 @@
+{
+  "name": "firebird",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "node-firebird": "^1.1.9"
+  }
+}
