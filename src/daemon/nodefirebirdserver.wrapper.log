@@ -1,0 +1,16 @@
+2024-12-04 07:56:39 - Starting D:\Program Files\nodejs\node.exe  --harmony D:\LuizDev\Node\node-firebird\node_modules\node-windows\lib\wrapper.js --file D:\LuizDev\Node\node-firebird\src\index.js --scriptoptions= --log "Node-Firebird Server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2024-12-04 07:56:39 - Started 19320
+2024-12-04 08:09:25 - Stopping nodefirebirdserver.exe
+2024-12-04 08:09:25 - ProcessKill 19320
+2024-12-04 08:09:25 - Found child process: 5280 Name: conhost.exe
+2024-12-04 08:09:25 - Found child process: 8056 Name: node.exe
+2024-12-04 08:09:25 - Stopping process 5280
+2024-12-04 08:09:25 - Send SIGINT 5280
+2024-12-04 08:09:25 - SIGINT to 5280 failed - Killing as fallback
+2024-12-04 08:09:25 - Stopping process 8056
+2024-12-04 08:09:25 - Send SIGINT 8056
+2024-12-04 08:09:25 - SIGINT to 8056 failed - Killing as fallback
+2024-12-04 08:09:25 - Stopping process 19320
+2024-12-04 08:09:25 - Send SIGINT 19320
+2024-12-04 08:09:25 - SIGINT to 19320 failed - Killing as fallback
+2024-12-04 08:09:25 - Finished nodefirebirdserver.exe
